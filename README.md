@@ -1,0 +1,2 @@
+# environment
+opencv+mosquitto+other
